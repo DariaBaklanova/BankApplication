@@ -1,0 +1,301 @@
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 1
+Please enter the account type (SAV/CHQ/GIC): SAV
+Please enter account information at one line (e.g. Doe,John; A1234; 1000.00; 3.65): 
+Baklanova, Daria; A4567; 1234.56; 12.3
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 2
+Please enter the number of account you want to close: A4567
+Successfully removed: 
+Name: Baklanova, Daria
+Number: A4567
+Current Balance: $1,234.56
+Type: SAV
+Interest Rate: 12.3%
+Interest Income: $151.85
+Final Balance: $1,386.41
+
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 3
+Please enter account number: 123
+How much money do you want to deposit? 200
+Funds successfully added. Your new balance: 200.3
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 4
+Please enter account number: 123
+How much money do you want to withdraw? 100
+Funds successfully withdrawn. Your new balance: 
+100.15
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 5
+
+Display accounts:
+1. Display all open accounts
+2. Display accounts with same account names
+3. Display accounts with same final balances
+
+Please make a choice: 1
+
+Name: Doe, John
+Number: 123
+Current Balance: $100.00
+Type: SAV
+Interest Rate: 0.15%
+Interest Income: $0.15
+Final Balance: $100.15
+
+
+Name: Ryan, Mary
+Number: 1234
+Current Balance: $0.00
+Type: SAV
+Interest Rate: 0.25%
+Interest Income: $0.00
+Final Balance: $0.00
+
+
+Name: Doe, John
+Number: 12345
+Current Balance: $0.00
+Type: CHQ
+Service Charge: $0.25
+Total Service Charge: $0.00
+Number of Transactions Allowed: 4
+List of Transactions: 0.0, 0.0, 0.0, 0.0, 
+Final Balance: $0.00
+
+
+Name: Ryan, Mary
+Number: 543
+Current Balance: $0.00
+Type: CHQ
+Service Charge: $0.25
+Total Service Charge: $0.00
+Number of Transactions Allowed: 4
+List of Transactions: 0.0, 0.0, 0.0, 0.0, 
+Final Balance: $0.00
+
+
+Name: Doe, John
+Number: 5432
+Current Balance: $6,000.00
+Type: GIC
+Annual Interest Rate: 1.5%
+Period of Investment: 2 years
+Interest Income at Maturity: $90.00
+Balance at Maturity: $375.00
+
+
+Name: Ryan, Mary
+Number: 54321
+Current Balance: $15,000.00
+Type: GIC
+Annual Interest Rate: 2.5%
+Period of Investment: 4 years
+Interest Income at Maturity: $375.00
+Balance at Maturity: $22,509.38
+
+
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 5
+
+Display accounts:
+1. Display all open accounts
+2. Display accounts with same account names
+3. Display accounts with same final balances
+
+Please make a choice: 2
+
+Please enter account name: Doe, John
+
+Name: Doe, John
+Number: 123
+Current Balance: $0.00
+Type: SAV
+Interest Rate: 0.15%
+Interest Income: $0.00
+Final Balance: $0.00
+
+Name: Doe, John
+Number: 12345
+Current Balance: $0.00
+Type: CHQ
+Service Charge: $0.25
+Total Service Charge: $0.00
+Number of Transactions Allowed: 4
+List of Transactions: 0.0, 0.0, 0.0, 0.0, 
+Final Balance: $0.00
+
+Name: Doe, John
+Number: 5432
+Current Balance: $6,000.00
+Type: GIC
+Annual Interest Rate: 1.5%
+Period of Investment: 2 years
+Interest Income at Maturity: $90.00
+Balance at Maturity: $375.00
+
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 5
+
+Display accounts:
+1. Display all open accounts
+2. Display accounts with same account names
+3. Display accounts with same final balances
+
+Please make a choice: 3
+
+Please enter final balance: 0
+
+Balance was found: 
+Name: Doe, John
+Number: 123
+Current Balance: $0.00
+Type: SAV
+Interest Rate: 0.15%
+Interest Income: $0.00
+Final Balance: $0.00
+
+
+
+Balance was found: 
+Name: Ryan, Mary
+Number: 1234
+Current Balance: $0.00
+Type: SAV
+Interest Rate: 0.25%
+Interest Income: $0.00
+Final Balance: $0.00
+
+
+
+Balance was found: 
+Name: Doe, John
+Number: 12345
+Current Balance: $0.00
+Type: CHQ
+Service Charge: $0.25
+Total Service Charge: $0.00
+Number of Transactions Allowed: 4
+List of Transactions: 0.0, 0.0, 0.0, 0.0, 
+Final Balance: $0.00
+
+
+
+Balance was found: 
+Name: Ryan, Mary
+Number: 543
+Current Balance: $0.00
+Type: CHQ
+Service Charge: $0.25
+Total Service Charge: $0.00
+Number of Transactions Allowed: 4
+List of Transactions: 0.0, 0.0, 0.0, 0.0, 
+Final Balance: $0.00
+
+
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 6
+Please enter name: Doe, John
+1. Tax rate: 15%
+Account Number: 123
+Interest Income: $0.15
+Amount of Tax: $0.00
+
+2. Tax rate: 15%
+Account Number: 5432
+Interest Income: $90.00
+Amount of Tax: $1,350.00
+
+
+----------------------------------------------
+Welcome toSeneca@York BankBank!
+1. Open an account.
+2. Close an account.
+3. Deposit money.
+4. Withdraw money.
+5. Display accounts.
+6. Display a tax statement.
+7. Exit
+
+Please enter your menu choice: 7
+Thank you!
